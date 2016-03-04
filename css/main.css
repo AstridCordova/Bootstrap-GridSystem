@@ -1,0 +1,414 @@
+.container {
+	/*width: 1160px;*/
+	width: 90%;
+}
+
+a:focus, a:hover {
+	color: black;
+}
+
+nav {
+	padding-top: 4%;
+}
+
+.container {
+	/*width: 1160px;*/
+	width: 90%;
+}
+
+a:focus, a:hover {
+	color: black;
+}
+
+nav {
+	padding-top: 4%;
+}
+
+.navbar-brand {
+	font-size: 50px;
+	color: black;
+	padding: 15px 0px;
+}
+
+.navegador input {
+	border-color: black;
+}
+
+.navegador button {
+	border-color: black;
+	background: #eee;
+}
+
+.navegador form {
+	float: right;
+	display: inline-block;
+}
+
+.navbar-form .form-control {
+	width: 250px;
+	height: 30px;
+}
+
+.btn-default {
+	height: 30px;
+}
+
+.navegador i {
+	font-size: 20px;
+}
+
+.navegador ul {
+	list-style-type: none;
+	float: right;
+}
+
+.navegador li {
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 13px;
+}
+
+.guion {
+	height: 20px;
+	border: 2px solid black;
+	margin: 0px 20px;
+	display: inline-block;
+}
+
+.tab ul {
+	background: #d6d6d6;
+	padding: 45px 0px 0px 15px;
+	width: 100%;
+}
+
+.tab a {
+	color: black;
+	font-size: 18px;
+}
+
+.seccion {
+	padding: 3% 0%;
+}
+
+.historyd {
+	font-size: 17px;
+	padding: 1%;
+	background: #929292; 
+	color: white;
+	width: 165px;
+}
+
+.articulo {
+	margin: 2% 0%;
+}
+
+.articulo p {
+	font-weight: bolder;
+}
+
+.articulo span {
+	font-weight: lighter;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+h3 {
+	font-size: 17px;
+	font-weight: bolder;
+}
+
+p {
+	text-align: justify;
+}
+
+hr {
+	margin: 0%;
+}
+
+.etiquetas p {
+	font-weight: bolder;
+	display: inline-block;
+	padding-right: 8%;
+}
+
+.etiquetas span {
+	font-weight: lighter;
+}
+
+.webzone {
+	background: black;
+	color: white;
+	width: 120px;
+	padding: 0% 1%;
+	text-align: center;
+	display: inline-block;
+}
+
+.dos .articulo {
+	display: inline-block;
+    padding-left: 3%;
+}
+
+.dos h3 {
+	margin-top: 0%;
+}
+
+.cdr-foto {
+	width: 100%;
+	padding: 15% 46%;
+	background: #aaaaaa;
+	border: 1px solid;
+	margin-bottom: 2%;
+}
+
+.hr-grueso {
+	border-top: 2px solid #aaaaaa;
+	margin-bottom: 2%;
+}
+
+.cuatro h3 {
+	margin-top: 0px;
+}
+
+.cuadro-video {
+	background: #d6d6d6;
+	padding: 0% 2% 4% 2%;
+}
+
+.video p {
+	text-align: left;
+}
+
+.video .etiquetas p {
+	float: right;
+}
+
+.video h3 {
+    margin-top: 0%;
+}
+
+.col-md-4 .historyd {
+	padding: 2%;
+}
+
+.play {
+	background: white;
+	border: 1px solid black;
+	width: 100%;
+	margin: 3% 0%;
+}
+
+.cuadro-fecha {
+	text-align: center;
+    font-size: 17px;
+    border: 1px solid black;
+    background: #aaaaaa;
+    height: 82px;
+    width: 82px;
+    padding: 20% 20%;
+}
+
+.agenda h3 {
+	margin-bottom: 0px;
+}
+
+.agenda p {
+	font-size: 14px;
+	color: #aaaaaa;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+.agenda .hr-grueso {
+	margin-top: 7%;
+} 
+
+.informacion h3 {
+	font-size: 24px;
+	margin-top: 0px;
+}
+
+.informacion h4 {
+	font-size: 17px;
+	font-weight: bolder;
+	margin: 0px;
+}
+
+.informacion p {
+	margin: 0px;
+}
+
+.informacion .subrayado {
+	margin-top: 7px;
+}
+
+.col-md-2  {
+	padding-left: 0px;
+}
+
+.col-md-4 {
+	padding-right: 5px;
+}
+
+.list h3 {
+	font-size: 25px;
+}
+
+.list ul {
+	list-style-type: none;
+	padding-left: 20px;
+	font-size: 14px;
+}
+
+.list i {
+	padding-right: 5px;
+}
+
+.cdr {
+	background: #d6d6d6;
+	padding: 5%;
+	margin-bottom: 5px;
+}
+
+.cdr p {
+	text-align: left;
+}
+
+.titulo {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+.subtitulo {
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.parrafo {
+	font-size: 12px;
+}
+
+.rubro  {
+	width: 20%;
+	float: left;
+}
+
+.expertise  {
+	width: 20%;
+	float: left;
+}
+
+.suscripcion {
+	width: 20%;
+	float: left;
+}  
+ 
+.nosotros {
+	width: 20%;
+	float: left;
+}
+
+.contacto {
+	width: 20%;
+	float: left;
+}
+
+footer {
+	font-weight: bolder;
+	padding: 3% 0%;
+}
+
+footer span {
+	font-size: 17px;   
+}
+
+footer ul {
+	 margin-top: 15px;
+	 list-style-type: none;
+	 padding-left: 0px;
+}
+
+@media screen and (max-width:600px) {
+
+    .col-md-12 {
+    	display: none;
+    }
+
+    .expertise {
+    	display: none;
+    }
+
+    .rubro  {
+    	width: 50%;
+    }
+    
+    .suscripcion {
+    	width: 50%;
+    }
+    
+    .contacto {
+    	display: none;    }
+    
+    .nosotros {
+    	display: none;
+    }
+
+    .navegador form {
+    	display: none;
+    }
+
+    .navbar-brand {
+    	font-size: 25px;
+    }
+
+    .navegador li {
+    	display: inline-block;
+    	margin: 0px;
+    	font-size: 10px;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .col-sm-5 {
+      padding-left: 0px;
+    }
+
+    .col-md-12 {
+    	display: none;
+    }
+
+    .expertise {
+    	display: none;
+    }
+
+    .rubro  {
+    	width: 25%;
+    }
+    
+    .suscripcion {
+    	width: 25%;
+    }
+    
+    .contacto {
+    	width: 25%;
+    }
+    
+    .nosotros {
+    	width: 25%;
+    }
+
+   .navegador form {
+    	display: none;
+    }
+}
+
+
+
+
+
+
+
